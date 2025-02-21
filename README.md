@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mvelo246
 - 👀 I’m interested in Software Engineering and Machine learning
-- 🌱 I’m currently learning cumputer science and statistic at Ukzn
+- 🌱 I’ve Graduated Honours in computer science 
 - 💞️ I’m looking to collaborate in future
 
 

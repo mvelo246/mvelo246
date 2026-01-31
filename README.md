@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mvelo246
-- 👀 I’m interested in Software Engineering and Machine learning
-- 🌱 I’ve Graduated Honours in computer science 
-- 💞️ I’m looking to collaborate in future
+- Hi, I’m @mvelo246
+- I’m interested in Software Engineering and Machine learning
+- I’ve Graduated Honours in computer science 
+- I’m looking to collaborate in future
 
 
 <!---
